@@ -225,14 +225,14 @@ I learn by building — every project here is a step toward becoming a better en
 
 <img width="80%" src="https://streak-stats.demolab.com?user=mabdullahw70-tech&border=FFFFFF&stroke=FFFFFF&borderRadius=6&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B3B3B3&dates=8B8B8B" alt="Contribution Streak"/>
 
-<!-- OPTIONAL SNAKE ANIMATION: add .github/workflows/snake.yml, run it once, then remove this comment wrapper
+<!-- OPTIONAL SNAKE ANIMATION: add .github/workflows/snake.yml, run it once, then remove this comment wrapper-->
 <br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake.svg">
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
 </picture>
--->
+
 
 <br/><br/>
 
