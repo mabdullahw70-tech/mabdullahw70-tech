@@ -233,14 +233,14 @@ I learn by building — every project here is a step toward becoming a better en
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullahw70-tech&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false&radius=6&custom_title=Abdullah%27s%20Contribution%20Graph" alt="Contribution Graph"/>
 
-<!-- OPTIONAL SNAKE ANIMATION: add .github/workflows/snake.yml, run it once, then remove this comment wrapper
+
 <br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake.svg">
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
 </picture>
--->
+
 
 <br/><br/>
 
