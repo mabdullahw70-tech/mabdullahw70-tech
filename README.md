@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,50:1c1c1c,100:3d3d3d&section=header&text=Welcome%20to%20Abdullah%27s%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=%3C%2F%3E&descSize=30&descAlignY=60" alt="Welcome to Abdullah's GitHub"/>
+<img width="100%" src="assets/header.svg" alt="Welcome to Abdullah's GitHub"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=%3E_+Software+Engineering+Student;%3E_+React+%26+Full-Stack+Web+Developer;%3E_+Now+Exploring+AI+%26+Machine+Learning;%3E_+Learn.+Build.+Improve.">
@@ -16,12 +16,8 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS COUNTER (HITS) -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmabdullahw70-tech&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=profile+views&edge_flat=false" alt="Profile Views"/>
-
-<!-- BACKUP COUNTER: if the badge above ever stops loading, delete it and use this one
-<img src="https://komarev.com/ghpvc/?username=mabdullahw70-tech&style=for-the-badge&color=000000&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
--->
+<!-- PROFILE VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=mabdullahw70-tech&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -229,18 +225,14 @@ I learn by building — every project here is a step toward becoming a better en
 
 <img width="80%" src="https://streak-stats.demolab.com?user=mabdullahw70-tech&border=FFFFFF&stroke=FFFFFF&borderRadius=6&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B3B3B3&dates=8B8B8B" alt="Contribution Streak"/>
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mabdullahw70-tech&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false&radius=6&custom_title=Abdullah%27s%20Contribution%20Graph" alt="Contribution Graph"/>
-
-
+<!-- OPTIONAL SNAKE ANIMATION: add .github/workflows/snake.yml, run it once, then remove this comment wrapper
 <br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake.svg">
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
 </picture>
-
+-->
 
 <br/><br/>
 
@@ -267,6 +259,6 @@ I'm always happy to talk about web development, AI projects and internship oppor
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=600&lines=Small+steps+every+day+lead+to+great+results.;Thanks+for+visiting+my+profile!+%E2%AD%90" alt="Closing quote"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3d3d,50:1c1c1c,100:000000&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="assets/footer.svg" alt="Footer"/>
 
 </div>
