@@ -10,14 +10,44 @@
 
 <br/>
 
-<a href="https://github.com/mabdullahw70-tech"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abdullah-waheed-70-tech"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/EMAIL-mabdullahw.70%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<!-- ROW 1: STATUS -->
+<img src="https://img.shields.io/badge/Status-Open_to_Work-000000?style=flat-square&labelColor=555555&logoColor=white&logo=googletasks" alt="Status"/>
+<img src="https://img.shields.io/badge/Location-Pakistan-000000?style=flat-square&labelColor=555555&logoColor=white&logo=googlemaps" alt="Location"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-000000?style=flat-square&labelColor=555555&logoColor=white&logo=react" alt="Focus"/>
+<img src="https://img.shields.io/badge/Learning-AI_%26_ML-000000?style=flat-square&labelColor=555555&logoColor=white&logo=python" alt="Learning"/>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=mabdullahw70-tech&label=PROFILE+VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
+<!-- ROW 2: ABOUT TAGS -->
+<img src="https://img.shields.io/badge/Education-BS_Software_Engineering-000000?style=flat-square&labelColor=555555&logoColor=white&logo=googleclassroom" alt="Education"/>
+<img src="https://img.shields.io/badge/Experience-Web_Dev_Internship-000000?style=flat-square&labelColor=555555&logoColor=white" alt="Experience"/>
+<img src="https://img.shields.io/badge/Languages-English_%7C_Urdu_%7C_Punjabi-000000?style=flat-square&labelColor=555555&logoColor=white&logo=googletranslate" alt="Languages"/>
+<img src="https://img.shields.io/badge/Interests-Web_%7C_AI_%7C_UI%2FUX-000000?style=flat-square&labelColor=555555&logoColor=white" alt="Interests"/>
+
+<br/><br/>
+
+<!-- ROW 3: LIVE STATS -->
+<img src="https://komarev.com/ghpvc/?username=mabdullahw70-tech&label=Profile+Views&color=000000&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/mabdullahw70-tech?style=flat-square&logo=github&logoColor=white&labelColor=555555&color=000000&label=followers" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/mabdullahw70-tech/mabdullahw70-tech?style=flat-square&logo=github&logoColor=white&labelColor=555555&color=000000&label=last+commit" alt="Last Commit"/>
+
+<br/><br/>
+
+<!-- ROW 4: CONTACT -->
+<a href="https://github.com/mabdullahw70-tech"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/abdullah-waheed-70-tech"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mabdullahw.70@gmail.com&amp;su=Hello%20Abdullah"><img src="https://img.shields.io/badge/EMAIL-mabdullahw.70%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<!-- ROW 5: NAVIGATION -->
+<a href="#about"><img src="https://img.shields.io/badge/About-000000?style=flat-square" alt="About"/></a>
+<a href="#technologies"><img src="https://img.shields.io/badge/Technologies-000000?style=flat-square" alt="Technologies"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=flat-square" alt="Projects"/></a>
+<a href="#ai-journey"><img src="https://img.shields.io/badge/AI_Journey-000000?style=flat-square" alt="AI Journey"/></a>
+<a href="#statistics"><img src="https://img.shields.io/badge/Statistics-000000?style=flat-square" alt="Statistics"/></a>
+<a href="https://github.com/mabdullahw70-tech?tab=repositories"><img src="https://img.shields.io/badge/Repositories-000000?style=flat-square" alt="Repositories"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-000000?style=flat-square" alt="Contact"/></a>
 
 <br/><br/>
 
@@ -25,6 +55,7 @@
 
 </div>
 
+<a id="about"></a>
 <h2 align="center">🧑‍🚀 About Me</h2>
 
 <img align="right" width="330" src="assets/astronaut.svg" alt="Floating astronaut animation"/>
@@ -50,6 +81,7 @@ I learn by building — every project here is a step toward becoming a better en
 
 </div>
 
+<a id="technologies"></a>
 <h2 align="center">⚙️ Technologies</h2>
 
 <div align="center">
@@ -92,6 +124,7 @@ I learn by building — every project here is a step toward becoming a better en
 
 </div>
 
+<a id="projects"></a>
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -176,6 +209,7 @@ I learn by building — every project here is a step toward becoming a better en
 
 </div>
 
+<a id="ai-journey"></a>
 <h2 align="center">🧭 My AI Journey</h2>
 
 <div align="center">
@@ -214,6 +248,7 @@ I learn by building — every project here is a step toward becoming a better en
 
 </div>
 
+<a id="statistics"></a>
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
@@ -225,7 +260,6 @@ I learn by building — every project here is a step toward becoming a better en
 
 <img width="80%" src="https://streak-stats.demolab.com?user=mabdullahw70-tech&border=FFFFFF&stroke=FFFFFF&borderRadius=6&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B3B3B3&dates=8B8B8B" alt="Contribution Streak"/>
 
-<!-- OPTIONAL SNAKE ANIMATION: add .github/workflows/snake.yml, run it once, then remove this comment wrapper-->
 <br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
@@ -233,13 +267,13 @@ I learn by building — every project here is a step toward becoming a better en
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mabdullahw70-tech/mabdullahw70-tech/output/github-snake-dark.svg">
 </picture>
 
-
 <br/><br/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
+<a id="contact"></a>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -249,7 +283,7 @@ I'm always happy to talk about web development, AI projects and internship oppor
 <a href="https://www.linkedin.com/in/abdullah-waheed-70-tech"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/mabdullahw70-tech"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-📫 **mabdullahw.70@gmail.com**
+📫 [**mabdullahw.70@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=mabdullahw.70@gmail.com&su=Hello%20Abdullah)
 
 <br/>
 
